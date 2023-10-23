@@ -1,0 +1,1 @@
+ Slicing is a method used to extract a section of an array without modifying the original array. The slice() method returns a shallow copy of a portion of an array into a new array object. It takes two parameters: the starting index and the ending index (exclusive).
